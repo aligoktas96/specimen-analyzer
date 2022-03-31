@@ -28,6 +28,7 @@ buildNumber.properties
 out/
 .idea/
 .idea_modules/
+.DS_Store
 *.iml
 *.ipr
 *.iws
